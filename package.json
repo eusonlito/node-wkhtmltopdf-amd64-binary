@@ -1,0 +1,21 @@
+{
+  "name": "wkhtmltopdf-amd64-binary",
+  "version": "0.12.4",
+  "description": "Linux amd64 wkhtmltopdf Binary to install from npm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eusonlito/node-wkhtmltopdf-amd64-binary.git"
+  },
+  "keywords": [
+    "wkhtmltopdf",
+    "amd64"
+  ],
+  "author": "Lito",
+  "bugs": {
+    "url": "https://github.com/eusonlito/node-wkhtmltopdf-amd64-binary/issues"
+  },
+  "bin": {
+    "wkhtmltopdf-amd64" : "./bin/wkhtmltopdf-amd64"
+  },
+  "homepage": "https://github.com/eusonlito/node-wkhtmltopdf-amd64-binary#readme"
+}
